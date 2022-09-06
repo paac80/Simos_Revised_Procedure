@@ -7,8 +7,8 @@ How to cite?
 Pavel Anselmo Alvarez, Cuitláhuac Valdez, Bapi Dutta (2022). Analysis of the innovation capacity of Mexican regions with the multiple criteria hierarchy process. Socio-Economic Planning Sciences. https://doi.org/10.1016/j.seps.2022.101418
 
 <br>
-How to run?
-- ./Simos_revised_share <directory_with_input_files>
+How to run?<br>
+- ./Simos_revised_share <directory_with_input_files><br>
 - ./Simos_revised_share example_project
 
 <br><br>
